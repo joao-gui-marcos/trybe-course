@@ -47,7 +47,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avanÃ§ado
+##### Bloco 6: HTML & CSS avançado
 
 - [ ] 6-1: _HTML & CSS - Forms_
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -142,17 +142,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: IntroduÃ§Ã£o - Bancos de dados relacionais
+##### Bloco 20: Introdução - Bancos de dados relacionais
 
 - [ ] 20-1: _Banco de dados SQL_
 - [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma especÃ­fica_
+- [ ] 20-3: _Filtrando dados de forma específica_
 - [ ] 20-4: _Manipulando tabelas_
 - [ ] 20-5: _[Projeto - All For One]()_
 
 ##### Bloco 21: Bancos de dados relacionais
 
-- [ ] 21-1: _FunÃ§Ãµes mais usadas no SQL_
+- [ ] 21-1: _Funções mais usadas no SQL_
 - [ ] 21-2: _Descomplicando JOINs e UNIONs_
 - [ ] 21-3: _Stored Routines & Subqueries_
 - [ ] 21-4: _[Projeto - Vocabulary Booster]()_
@@ -160,13 +160,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 22: Bancos de dados relacionais
 
 - [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _NormalizaÃ§Ã£o, Formas Normais e Dumps_
+- [ ] 22-2: _Normalização, Formas Normais e Dumps_
 - [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
 - [ ] 22-3: _[Projeto - One For All]()_
 
-##### Bloco 23: IntroduÃ§Ã£o - NoSQL
+##### Bloco 23: Introdução - NoSQL
 
-- [ ] 23-1: _MongoDB - IntroduÃ§Ã£o_
+- [ ] 23-1: _MongoDB - Introdução_
 - [ ] 23-2: _Filter Operators_
 - [ ] 23-3: _[Projeto - Data Flights]()_
 
@@ -185,20 +185,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 26: Intro - NodeJS
 
-- [ ] 26-1: _NodeJS - IntroduÃ§Ã£o_
-- [ ] 26-2: _NodeJS - Fluxo AssÃ­ncrono_
+- [ ] 26-1: _NodeJS - Introdução_
+- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
 - [ ] 26-3: _NodeJS - Arquitetura_
 - [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
 
 ##### Bloco 27: NodeJS
 
 - [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - IntroduÃ§Ã£o ao MVC_
+- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
 - [ ] 27-3: _[Projeto - Cookmaster]()_
 
 ##### Bloco 28: NodeJS
 
-- [ ] 28-1: _Arquitetura de Software - Camada de ServiÃ§o_
+- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
 - [ ] 28-2: _Arquitetura web - Rest e Restful_
 - [ ] 28-3: _[Projeto - Store Manager]()_
 
@@ -208,7 +208,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
 - [ ] 29-3: _[Projeto - Cookmaster V2]()_
 
-##### Bloco 30: IntroduÃ§Ã£o - Deploy
+##### Bloco 30: Introdução - Deploy
 
 - [ ] 30-1: _Infraestrutura - Deploy com Heroku_
 - [ ] 30-2: _Deploy - Gerenciadores de Processos_
@@ -220,10 +220,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 32: Arquitetura de Software
 
-- [ ] 32-1: _Arquitetura - PrincÃ­pios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicaÃ§Ã£o com o banco de dados_
+- [ ] 32-1: _Arquitetura - Princípios SOLID_
+- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
 - [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas prÃ¡ticas na escrita de testes_
+- [ ] 32-4: _Boas práticas na escrita de testes_
 - [ ] 32-3: _[Projeto - API de Blogs]()_
 
 ##### Bloco 33: Sockets
@@ -236,21 +236,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-## CiÃªncia da ComputaÃ§Ã£o :hourglass_flowing_sand:
+## Ciência da ComputaÃ§Ã£o :hourglass_flowing_sand:
 
-##### Bloco 35: IntroduÃ§Ã£o - CiÃªncia da ComputaÃ§Ã£o
+##### Bloco 35: Introdução - Ciência da Computação
 
 - [ ] 35-1: _Arquitetura de Computadores_
 - [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e seguranÃ§a_
+- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
 - [ ] 35-4: _[Projeto - Explorando os protocolos]()_
 
 ##### Bloco 36: Python
 
 - [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e ExceÃ§Ãµes_
-- [ ] 35-3: _Entrada e SaÃ­da de dados_
-- [ ] 36-4: _Entrada e SaÃ­da de dados_
+- [ ] 35-2: _Testes e Exceções_
+- [ ] 35-3: _Entrada e Saída de dados_
+- [ ] 36-4: _Entrada e Saída de dados_
 - [ ] 35-5: _[Projeto - Tech news]()_
 
 # [...]
