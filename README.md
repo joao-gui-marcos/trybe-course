@@ -236,7 +236,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-## Ciência da ComputaÃ§Ã£o :hourglass_flowing_sand:
+## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 
