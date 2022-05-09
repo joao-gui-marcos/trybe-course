@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+li:hover {
+    background-color: green;
+}
+
+li:active {
+    font-family: fantasy;
+}
+
+li {
+    list-style: none;
+}
