@@ -1,4 +1,4 @@
-# DIA X
+# DIA 2
 
 ## Aprendizados do dia:
 
