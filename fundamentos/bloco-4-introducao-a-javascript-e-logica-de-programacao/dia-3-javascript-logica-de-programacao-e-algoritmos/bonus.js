@@ -40,6 +40,3 @@ function imprimeQuadrado (n) {
         espacos = ""
     }
     }
-
-imprimeTrianguloRetanguloInvertido(5)
-
