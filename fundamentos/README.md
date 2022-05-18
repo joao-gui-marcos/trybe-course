@@ -11,4 +11,3 @@
 * Trabalhar com JavaScript ES6.
 * Criar códigos assíncronos em JavaScript.
 * Escrever testes unitários.
-
