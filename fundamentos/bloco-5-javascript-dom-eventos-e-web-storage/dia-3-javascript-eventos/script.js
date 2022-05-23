@@ -76,7 +76,6 @@ function createDaysOfTheWeek() {
   }
 
   let day = document.querySelector('#days')
-  console.log(day)
   day.addEventListener('mouseover',dayZoom)
   day.addEventListener('mouseout',dayZoomOut)
   function dayZoom(event) {
@@ -86,7 +85,23 @@ function createDaysOfTheWeek() {
     event.target.style.fontSize = '20px'
 }
 
+function addTask(string) {
+    let task = document.createElement('span')
+    task.innerText = string
+    let myTasks = document.querySelector('.my-tasks')
+    myTasks.appendChild(task)
+}
 
+addTask('cozinhar')
+
+function addLabel(cor) {
+    let div = document.createElement('div')
+    div.classList.add = 'task'
+    div.style.backgroundColor = cor
+    let div2 = document.querySelector('.my-tasks')
+    div2.appendChild(div)
+}
+addLabel('red')
 
 
 
