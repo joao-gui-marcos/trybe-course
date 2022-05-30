@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML Semântico_
-- [ ] 3-5: _[Projeto - Lessons Learned - HTML & CSS](https://github.com/joao-gui-marcos/Lessons-Learned)_
+- [ ] 3-5: _[Projeto - Lessons Learned](https://github.com/joao-gui-marcos/Lessons-Learned)_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -42,7 +42,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 5-3: _JavaScript - Eventos_
 - [ ] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
+- [ ] 5-6: _[Projeto - Arte com Pixels](https://github.com/joao-gui-marcos/Pixels-Art)_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
