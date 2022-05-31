@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <h1>TrybeTrip Form</h1>
+    <form action="" method="GET" enctype="multipart/form-data">
+        <label for="full-name">Name:
+            <input type="text" name="name" id="full-name" placeholder="Type your name" minlength="10" maxlength="40" required>
+        </label>
+        <br><br>
+        <label for="input-email">Email:
+            <input type="email" name="email" id="input-email" placeholder="Type your email" minlength="10" maxlength="50" required>
+        </label>
+        <br><br>
+        <p>Choose your destiny:</p>
+        <label for="destiny1">
+            <input type="radio" name="destiny" id="destiny1" value="city" checked>City
+        </label>
+        <label for="destiny2">
+            <input type="radio" name="destiny" id="destiny2" value="field">Field
+        </label>
+        <label for="destiny3">
+            <input type="radio" name="destiny" id="destiny3" value="beach">Beach
+        </label>
+        <label for="destiny4">
+            <input type="radio" name="destiny" id="destiny4" value="mountains">Mountains
+        </label>
+        <br>
+        <p>Why should you win?</p>
+        <textarea name="about-me" id="textarea1" cols="30" rows="10"></textarea>
+        <br>
+        <label for="input-date">Date:
+            <input type="date" name="date" id="input-date">
+        </label>
+        <br><br>
+        <label for="offers">Would you like to receive other offers?
+            <input type="checkbox" id="offers" name="offer-checkbox">
+        </label>
+        <br>
+        <label for="terms">I agree to share my image
+            <input type="checkbox" id="terms" name="terms-checkbox">
+        </label>
+        <br><br>
+        <button type="submit" id="submit-button" disabled>Submit</button>
+        <button type="reset" id="reset-button">Reset</button>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
