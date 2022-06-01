@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
+</head>
+<body>
+    <h1>TrybeTrip Form</h1>
+    <form action="" method="GET" enctype="multipart/form-data">
+        <div class="form-floating mb-3">
+            <input type="text" name="name" id="full-name" placeholder="Type your name" minlength="10" maxlength="40" required class="form-control">
+            <label for="full-name" class="form-label">Name:</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="email" name="email" id="input-email" placeholder="Type your email" minlength="10" maxlength="50" required class="form-control">
+            <label for="input-email" class="form-label">Email:</label>
+        </div>
+        <p>Choose your destiny:</p>
+        <div class="form-check form-check-inline">
+            <label for="destiny1" class="form-label">
+                <input type="radio" name="destiny" id="destiny1" value="city" checked class="form-check-input">City
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <label for="destiny2" class="form-label">
+                <input type="radio" name="destiny" id="destiny2" value="field" class="form-check-input">Field
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <label for="destiny3" class="form-label">
+                <input type="radio" name="destiny" id="destiny3" value="beach" class="form-check-input">Beach
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <label for="destiny4" class="form-label">
+                <input type="radio" name="destiny" id="destiny4" value="mountains" class="form-check-input">Mountains
+            </label>
+        </div>
+        <br>
+        <div class="form-floating">
+            <textarea name="about-me" id="textarea1" cols="30" rows="10" class="form-control" placeholder="Write something"></textarea>
+            <label for="textarea1">Why should you win?</label>
+        </div>
+        <br>
+        <div>
+            <label for="datepicker">Date:</label>
+            <input type="date" name="date" id="datepicker" class="right-aligned">
+        </div>
+        <br><br>
+        <div class="form-check">
+            <input type="checkbox" id="offers" name="offer-checkbox" class="form-check-input">
+            <label for="offers" class="form-check-label">Would you like to receive other offers?</label>
+        </div>
+        <div class="form-check">
+            <input type="checkbox" id="terms" name="terms-checkbox" class="form-check-input">
+            <label for="terms" class="form-check-label">I agree to share my image</label>
+        </div>
+        <button type="submit" id="submit-button" class="btn btn-primary" disabled>Submit</button>
+        <button type="reset" id="reset-button" class="btn btn-danger">Reset</button>
+    </form>
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+</body>
+</html>
