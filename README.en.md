@@ -2,7 +2,7 @@
 
 ### README Translations:
 * [English](/README.en.md)
-* [English](/README.md)
+* [Portuguese](/README.md)
 
 ---
 
