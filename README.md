@@ -4,6 +4,8 @@
 * [English](/README.en.md)
 * [Portuguese](/README.md)
 
+---
+
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Joao Guilherme De Nigris Marcos](https://www.linkedin.com/in/joao-guilherme-de-nigris-marcos/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
