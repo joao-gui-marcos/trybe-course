@@ -1,0 +1,15 @@
+{
+  "name": "dia-1-javascript-assincrono-e-callbacks",
+  "version": "1.0.0",
+  "description": "## Aprendizados do dia: * Aplicar corretamente operações assíncronas; * Utilizar callbacks corretamente; * Utilizar o Jest para testar suas callbacks; * Reaproveitar configurações para diversos testes por meio do uso de beforeEach e afterEach.",
+  "main": "scrip1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
