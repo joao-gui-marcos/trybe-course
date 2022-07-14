@@ -1,4 +1,4 @@
-# DIA 5
+# DIA 3
 
 ## Aprendizados do dia:
 * Mudar o conteúdo, estilo e outros atributos de elementos HTML a partir de eventos do JavaScript;
