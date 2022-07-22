@@ -1,5 +1,7 @@
 import React from 'react'
 import FileInput from './FileInput'
+import MeuTexto from './MeuTexto'
+import MinhaIdade from './MinhaIdade'
 
 class Form extends React.Component {
   constructor() {
@@ -24,21 +26,8 @@ class Form extends React.Component {
     return(
       <div>
         <form>
-            <fieldset>
-              <textarea
-                value={this.state.meuTexto}
-                onChange={this.handleChange} 
-                name="meuTexto"
-              />
-            </fieldset>
-            <fieldset>
-              <input 
-                type="number" 
-                name="minhaIdade" 
-                value={this.state.minhaIdade} 
-                onChange={this.handleChange} 
-              />
-            </fieldset>
+            <MeuTexto handleChange={this.handleChange} meuTexto={this.state.meuTexto} />
+            <MinhaIdade handleChange={this.handleChange} minhaIdade={this.state.minhaIdade}/>
             <fieldset>
             <input
               type="checkbox"
