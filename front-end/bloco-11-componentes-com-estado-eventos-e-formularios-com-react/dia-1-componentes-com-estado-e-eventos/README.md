@@ -7,4 +7,4 @@
 * Capturar eventos utilizando a sintaxe do React
 
 ## Exercícios:
-1. Incremente uma Pokedex utilizando Estado no React.
+1. Incremente uma Pokedex utilizando Estado no React. Veja [aqui](https://github.com/joao-gui-marcos/exercise-pokedex-state-react) o repositorio.
