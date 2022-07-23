@@ -1,4 +1,5 @@
 import React from 'react'
+import CityLabel from './CityLabel'
 
 class Form extends React.Component {
   constructor() {
@@ -60,8 +61,7 @@ class Form extends React.Component {
         <textarea value={this.state.emailInput} onChange={this.handleChange} name="emailInput" type="text" maxLength="50"></textarea>
         <label>Address: </label>
         <textarea value={this.state.addressInput} onChange={this.handleChange} name="addressInput" type="text" maxLength="200"></textarea>
-        <label>City: </label>
-        <textarea value={this.state.cityInput} onChange={this.handleChange} name="cityInput" type="text" maxLength="28" onBlur={this.handleCityInput}></textarea>
+        <CityLabel cityInput={this.state.cityInput} handleChange={this.handleChange} handleCityInput={this.handleCityInput} name="cityInput"/>
       </fieldset>
     )
   }
