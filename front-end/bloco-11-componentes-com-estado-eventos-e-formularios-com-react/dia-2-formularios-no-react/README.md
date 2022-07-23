@@ -18,7 +18,7 @@
 
 ### Parte 2:
 Vamos criar um formulário de cadastro de currículo com base nas especificações seguintes:
-1. Crie um <fieldset> para os dados pessoais a seguir:
-2. Crie outro <fieldset> para dados do seu último emprego:
-3. Crie um botão que, ao ser clicado, monta uma <div> com o consolidado dos dados que foram inseridos no formulário.
-4. Crie um botão Limpar que limpa todos os campos do formulário e a <div> com seu currículo também.
+1. Crie um fieldset para os dados pessoais a seguir:
+2. Crie outro fieldset para dados do seu último emprego:
+3. Crie um botão que, ao ser clicado, monta uma div com o consolidado dos dados que foram inseridos no formulário.
+4. Crie um botão Limpar que limpa todos os campos do formulário e a div com seu currículo também.
