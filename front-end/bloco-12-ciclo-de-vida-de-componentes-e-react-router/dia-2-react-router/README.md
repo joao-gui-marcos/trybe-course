@@ -1,4 +1,4 @@
-# DIA X
+# DIA 2
 
 ## Aprendizados do dia:
 * Utilizar o props.children para acessar os filhos de um componente React e interagir com eles;
@@ -9,4 +9,4 @@
 * Usar o componente Redirect pra alternar entre rotas.
 
 ## Exercícios:
-1. Realize os exercícios da Pokédex para torna-lá navegável. Veja o repositorio aqui:
+1. Realize os exercícios da Pokédex para torna-lá navegável. Veja o repositorio [aqui](https://github.com/joao-gui-marcos/react-router-pokedex-exercise)
