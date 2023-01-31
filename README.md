@@ -192,47 +192,47 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [X] 25-1: _ORM - Interface da Aplicacao com o banco de dados_
 - [X] 25-2: _ORM - Associations 1:1 e 1:N_
 - [X] 25-3: _ORM - Associations N:N e Transactions_
-- [ ] 25-4: _JWT - JSON Web Token_
-- [ ] 25-5: _[Projeto - API Blogs]()_
+- [X] 25-4: _JWT - JSON Web Token_
+- [X] 25-5: _[Projeto - API Blogs](https://github.com/joao-gui-marcos/blogs-api)_
 
 ##### Bloco 26: Masterclass: Implantacao de Aplicacoes na Nuvem
 
-- [ ] 26-1: _Infraestrutura: Deploy com Railway_
+- [X] 26-1: _Infraestrutura: Deploy com Railway_
 
 ##### Bloco 27: Introducao a TypeScript
 
-- [ ] 27-1: _Introducao a TypeScript_
-- [ ] 27-2: _Tipagem Estatica e Generics_
-- [ ] 27-3: _Express com TypeScript_
-- [ ] 27-4: _[Projeto - TrybeSmith]()_
+- [X] 27-1: _Introducao a TypeScript_
+- [X] 27-2: _Tipagem Estatica e Generics_
+- [X] 27-3: _Express com TypeScript_
+- [X] 27-4: _[Projeto - TrybeSmith](https://github.com/joao-gui-marcos/trybesmith)_
 
 ##### Bloco 28: Programacao Orientada a Objetos (POO) e SOLID
 
-- [ ] 28-1: _Introducao a Orientacao a Objetos_
-- [ ] 28-2: _Heranca e Interfaces_
-- [ ] 28-3: _Poliformismo_
-- [ ] 28-4: _SOLID - Introducao e Principios S, O e D_
-- [ ] 28-5: _SOLID - Principios L e I_
-- [ ] 28-6: _[Projeto - Trybers and Dragons]()_
+- [X] 28-1: _Introducao a Orientacao a Objetos_
+- [X] 28-2: _Heranca e Interfaces_
+- [X] 28-3: _Poliformismo_
+- [X] 28-4: _SOLID - Introducao e Principios S, O e D_
+- [X] 28-5: _SOLID - Principios L e I_
+- [X] 28-6: _[Projeto - Trybers and Dragons](https://github.com/joao-gui-marcos/trybers-and-dragons)_
 
 ##### Bloco 29: Projeto
 
-- [ ] 29-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [X] 29-1: _[Projeto - TFC - Trybe Futebol Clube](https://github.com/joao-gui-marcos/trybe-futebol-clube)_
 
 ##### Bloco 30: Introducao ao MongoDB
 
-- [ ] 30-1: _MongoDB - Introducao_
-- [ ] 30-2: _Filter Operators_
-- [ ] 30-3: _Operadores de Consulta_
-- [ ] 30-4: _Updates Simples_
-- [ ] 30-5: _Updates Complexos - Arrays_
-- [ ] 30-6: _[Projeto - Commerce]()_
+- [X] 30-1: _MongoDB - Introducao_
+- [X] 30-2: _Filter Operators_
+- [X] 30-3: _Operadores de Consulta_
+- [X] 30-4: _Updates Simples_
+- [X] 30-5: _Updates Complexos - Arrays_
+- [X] 30-6: _[Projeto - Commerce]()_
 
 ##### Bloco 31: APIs OO e NoSQL
 
-- [ ] 31-1: _APIs Orientadas a objetos e NoSQL: POO e ODMs_
-- [ ] 31-2: _APIs Orientadas a objetos e NoSQL: Heranca e Abstracao_
-- [ ] 31-3: _[Projeto - Car Shop]()_
+- [X] 31-1: _APIs Orientadas a objetos e NoSQL: POO e ODMs_
+- [X] 31-2: _APIs Orientadas a objetos e NoSQL: Heranca e Abstracao_
+- [X] 31-3: _[Projeto - Car Shop]()_
 
 ##### Bloco 32: Projeto - App de Delivery
 
